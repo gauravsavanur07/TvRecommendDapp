@@ -1,0 +1,22 @@
+{
+  "name": "newtvdapp",
+  "version": "1.0.0",
+  "description": "Blockchain recommendation engine ",
+  "main": "index.js",
+  "scripts": {
+    "test": "truffle test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gauravsavanur07/TvRecommendDapp.git"
+  },
+  "keywords": [
+    "Blockchain"
+  ],
+  "author": "Gaurav Savanur",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gauravsavanur07/TvRecommendDapp/issues"
+  },
+  "homepage": "https://github.com/gauravsavanur07/TvRecommendDapp#readme"
+}
