@@ -1,4 +1,4 @@
 # TvRecommendDapp
 Blockchain Web Application that recommends tv shows using etherium state channels
 
-Heoku-https://tvdapp.herokuapp.com/tv/fresh
+Heroku App-https://tvdapp.herokuapp.com/tv/fresh
