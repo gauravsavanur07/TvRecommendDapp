@@ -1,0 +1,22 @@
+{
+  "name": "TvRecommendDapp",
+  "description": "Netflix alternative for blockchain dapp development",
+  "scripts": {
+    "postdeploy": "truffle migrate "
+  },
+  "env": {
+  },
+  "formation": {
+    "web": {
+      "quantity": 1
+    }
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+    {
+      "url": "heroku/nodejs"
+    }
+  ]
+}
