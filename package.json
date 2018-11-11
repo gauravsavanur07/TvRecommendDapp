@@ -1,34 +1,4 @@
 {
-  "name": "newtvdapp",
-  "version": "1.0.0",
-  "description": "Blockchain recommendation engine ",
-  "main": "index.js",
-  "scripts": {
-    "test": "truffle test",
-    "dev": "node server/",
-    "test": "truffle test",
-    "build": "next build",
-    "blockchain": "truffle compile && truffle migrate",
-    "start": "NODE_ENV=production node server/",
-    "heroku-postbuild": "next build" 
-
-
-
- },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/gauravsavanur07/TvRecommendDapp.git"
-  },
-  "keywords": [
-    "Blockchain"
-  ],
-  "author": "Gaurav Savanur",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/gauravsavanur07/TvRecommendDapp/issues"
-  },
-  "homepage": "https://github.com/gauravsavanur07/TvRecommendDapp#readme",
-{
   "scripts": {
     "dev": "node server/",
     "test": "truffle test",
@@ -56,14 +26,9 @@
         "transform-define",
         "./env-config.js"
       ]
-<<<<<<< HEAD
     ]
-{
- "dependencies": {
-=======
-    ],
+  },
   "dependencies": {
->>>>>>> 7743309e0734b5dd3b5c4eda233bdc13bb92f575
     "babel-plugin-inline-json": "^1.2.2",
     "babel-plugin-transform-decorators-legacy": "^1.3.4",
     "babel-plugin-transform-define": "^1.3.0",
@@ -87,7 +52,6 @@
     "mocha": "^3.5.3"
   }
 }
-
 
 
 
