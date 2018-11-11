@@ -4,7 +4,7 @@
     "test": "truffle test",
     "build": "next build",
     "blockchain": "truffle compile && truffle migrate",
-    "start": "NODE_ENV=production node server/",
+    "start": "npm start",
     "heroku-postbuild": "next build"
   },
   "engines": {
